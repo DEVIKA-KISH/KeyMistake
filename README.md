@@ -12,12 +12,23 @@ Can you recover the key and decrypt the flag?
 
 ##  How to Play
 
-Connect to the challenge server using:
-nc <your_ip_or_ngrok_url> 1337
+- Connect to the challenge server using:
+- nc <your_ip_or_ngrok_url> 1337
++ Clone this repo and run the challenge locally:
++ 
++ ```bash
++ git clone https://github.com/yourusername/KeyMistake-Room.git
++ cd KeyMistake-Room
++ python3 server.py
++ ```
++
++ Then in another terminal:
++
++ ```bash
++ nc 127.0.0.1 1337
++ ```
 
 
-If hosted using Serveo or Ngrok:
-nc serveo.net 1337
 
 
 
