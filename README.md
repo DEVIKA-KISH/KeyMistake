@@ -9,9 +9,7 @@ We've intercepted an encrypted message and its corresponding plaintext. Unfortun
 Can you recover the key and decrypt the flag?
 
 ---
-
-##  How to Play
-
+# HOW TO PLAY
 - Connect to the challenge server using:
 - nc <your_ip_or_ngrok_url> 1337
 + Clone this repo and run the challenge locally:
@@ -27,6 +25,7 @@ Can you recover the key and decrypt the flag?
 + ```bash
 + nc 127.0.0.1 1337
 + ```
+
 
 
 
