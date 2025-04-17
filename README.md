@@ -23,7 +23,7 @@ Can you recover the key and decrypt the flag?
 + Then in another terminal:
 +
 + ```bash
-+ nc 127.0.0.1 1337
++ nc <your_ip> 1337
 + ```
 
 
