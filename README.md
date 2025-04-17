@@ -15,7 +15,7 @@ Can you recover the key and decrypt the flag?
 + Clone this repo and run the challenge locally:
 + 
 + ```bash
-+ git clone https://github.com/yourusername/KeyMistake-Room.git
++ git clone https://github.com/DEVIKA-KISH/KeyMistake-Room.git
 + cd KeyMistake-Room
 + python3 server.py
 + ```
@@ -53,9 +53,9 @@ flag{your_decrypted_flag_here}
 - encrypted_flag.bin – The XOR-encrypted flag
 - known_plaintext.txt – Original known message
 - known_encrypted.txt – Encrypted version of the known message
-- README.txt – Player instructions (used in terminal)
-- challenge_description.md – Academic write-up
-- KeyMistake_CTF_Presentation.pptx – Presentation slides
+- README.md – Player instructions (used in terminal)
+
+
 
 ---
 
